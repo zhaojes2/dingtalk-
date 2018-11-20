@@ -1,4 +1,4 @@
-curl 'https://oapi.dingtalk.com/robot/send?access_token=xxxxxxxx' \
+curl 'https://oapi.dingtalk.com/robot/send?access_token=36cb172980980d35333dbe71fdbf5268c06bcde0b5d8c6837fef2a0f71df6ce3' \
    -H 'Content-Type: application/json' \
    -d '
   {"msgtype": "text", 
